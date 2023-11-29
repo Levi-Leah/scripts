@@ -36,7 +36,7 @@ def search_recursive(directory_path):
                 
 
 # Specify the root directory containing XML files
-root_directory = '/home/levi/rhel-8-docs/'
+root_directory = '/file/path/'
 
 # Perform recursive search
 search_recursive(root_directory)
